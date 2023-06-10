@@ -8,7 +8,7 @@ The game engine uses a combination of HTML, CSS, and JavaScript.
 
 # Change Logs
 06-10-2023
-    I. Added an image directory to hold images used in The Deep.
-    II. Added HTML file that contains the story.
-      i. Created a rudimentary UI and starting passages.
+    1. Added an image directory to hold images used in The Deep.
+    2. Added HTML file that contains the story.
+      - Created a rudimentary UI and starting passages.
     
