@@ -11,4 +11,6 @@ The game engine uses a combination of HTML, CSS, and JavaScript.
 1. Added an image directory to hold images used in The Deep.
 2. Added HTML file that contains the story.
     - Created a rudimentary UI and starting passages.
+    - Added JavaScript to hide the built-in UI bar 
+    - Formatted UI with CSS
     
